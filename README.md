@@ -31,7 +31,7 @@ pip install PySimpleGUI requests
 - Execute o arquivo managerGUI.py com o Python:
 
 ```bash
-python managerGUI.p
+python managerGUI.py
 
 ```
 - A interface do sistema será aberta. A partir daí, você pode interagir com as funcionalidades disponíveis.
