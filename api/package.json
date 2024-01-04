@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@satolep/eslint": "^1.0.10",
+    "@satolep/eslint": "^1.0.12",
     "express": "^4.18.2",
     "mysql2": "^3.6.1",
     "sequelize": "^6.33.0"
