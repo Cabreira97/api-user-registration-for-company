@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@satolep/eslint": "^1.0.10",
-    "express": "^4.18.2",
+    "express": "^4.18.3",
     "mysql2": "^3.6.1",
     "sequelize": "^6.33.0"
   },
